@@ -1,0 +1,19 @@
+{
+  "name": "aico",
+  "version": "1.0.0",
+  "description": "Rice Manufacturing & Trading  System",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arif1018/aico.git"
+  },
+  "author": "World Home Development",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arif1018/aico/issues"
+  },
+  "homepage": "https://github.com/arif1018/aico#readme"
+}
